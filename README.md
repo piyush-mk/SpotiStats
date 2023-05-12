@@ -1,21 +1,23 @@
 # SpotiStats
+</br>
 
-## [For Notebook click here!](/Notebook.ipynb)
+# [For Notebook click here!](/Notebook.ipynb)</br></br>
 
-## Project Description
+# Project Description
 
 Data analysis project to analyze my personal streaming data from Spotify
 
-## Tech Used
+# Tech Used
 - Python
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Wordcloud, Pywaffle
 - Spotify Personal Data
+</br></br>
 
-## Features
-1. Starter Analysis
-   1. Read json file and convert to dataframe
-   2. Shape of dataframe
-   3. Info of dataframe
+# Features:</br>
+# 1. Starter Analysis
+   ## 1. Read json file and convert to dataframe
+   ## 2. Shape of dataframe
+   ## 3. Info of dataframe
    4. Sample of dataframe
    5. Count of unique artists
    6. Count of unique songs
@@ -78,6 +80,11 @@ Data analysis project to analyze my personal streaming data from Spotify
     - My favourite artist is Kendrick Lamar with 1098 playbacks.
     - My favourite track is 'Superhero (Heroes & Villains)' with 112 playbacks.
 7. References
-- [kmcd14/spotify](https://github.com/kmcd14/spotify)
-- [Spotify personal data analysis using R by Joy Pham](https://medium.com/@joypham7/spotify-personal-data-analysis-858c8fbe6983)
-- [Spotify Data Analysis and Visualisation with Python by Jeremy Onim](https://blog.devgenius.io/spotify-data-analysis-with-python-a727542beaa7)
+   - [kmcd14/spotify](https://github.com/kmcd14/spotify)
+   - [Spotify personal data analysis using R by Joy Pham](https://medium.com/@joypham7/spotify-personal-data-analysis-858c8fbe6983)
+   - [Spotify Data Analysis and Visualisation with Python by Jeremy Onim](https://blog.devgenius.io/spotify-data-analysis-with-python-a727542beaa7)
+8. Future Work
+   - Feature Engineering
+   - Predictive Analysis to predict the next song I will play based on my previous listening history.
+   - Make playlist based on my listening history
+   - Streamlit app to visualize the data just by uploading the data file.
