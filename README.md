@@ -15,9 +15,9 @@ Data analysis project to analyze my personal streaming data from Spotify
 
 # Features:</br>
 # 1. Starter Analysis
-   ## 1. Read json file and convert to dataframe
-   ## 2. Shape of dataframe
-   ## 3. Info of dataframe
+   1. Read json file and convert to dataframe
+   2. Shape of dataframe
+   3. Info of dataframe
    4. Sample of dataframe
    5. Count of unique artists
    6. Count of unique songs
