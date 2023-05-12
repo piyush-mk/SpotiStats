@@ -10,8 +10,11 @@ Data analysis project to analyze my personal streaming data from Spotify
 # Tech Used
 - Python
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Wordcloud, Pywaffle
-- Spotify Personal Data
+- Spotify Personal Data (Downloaded from Spotify)
 </br></br>
+
+### To download your personal data from Spotify
+[Click here and press on Download your data](https://www.spotify.com/in-en/account/privacy/)
 
 # Features:</br>
 # 1. Starter Analysis
