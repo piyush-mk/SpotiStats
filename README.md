@@ -1,6 +1,6 @@
 # SpotiStats
 
-## [Notebook](/Notebook.ipynb)
+## [For Notebook click here!](/Notebook.ipynb)
 
 ## Project Description
 
