@@ -1,5 +1,7 @@
 # SpotiStats
 
+## [Notebook](/Notebook.ipynb)
+
 ## Project Description
 
 Data analysis project to analyze my personal streaming data from Spotify
@@ -25,6 +27,6 @@ Data analysis project to analyze my personal streaming data from Spotify
    1. Define plot style
    2. Unique artists explored
    3. Top 10 artists based on Listening Time vs number of plays
-   {Plots/top10.png}
+   ![](/Plots/top10.png)
 
 
